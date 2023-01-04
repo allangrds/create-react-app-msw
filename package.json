@@ -81,7 +81,8 @@
     ]
   },
   "devDependencies": {
-    "msw": "^0.49.2"
+    "msw": "^0.49.2",
+    "webpack-bundle-analyzer": "^4.7.0"
   },
   "msw": {
     "workerDirectory": "public"
